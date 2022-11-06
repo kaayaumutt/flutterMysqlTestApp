@@ -26,10 +26,10 @@
 <img width="207" alt="updates" src="https://user-images.githubusercontent.com/90245432/200192316-1164143f-a4fe-48e2-9f24-6135b22a5558.PNG">
 
 # mysql update - at database_helper.dart
-<img width="207" alt="updates" src="https://user-images.githubusercontent.com/90245432/200192282-7cc7a3cf-dfa0-4f01-9b22-0287e7affe68.PNG">
+<img width="728" alt="noteupdateNavic" src="https://user-images.githubusercontent.com/90245432/200192484-d3a2adbd-145f-4333-b48b-89cfb1a0863d.PNG">
 
 # home_page.dart
 <img width="214" alt="noteupdatees" src="https://user-images.githubusercontent.com/90245432/200192324-6cdb03d4-57e6-40a8-8706-5feb8f6221d4.PNG">
 
-for database operations => database_helper.dart
-for database sql => SQL/notesdb.sql
+# for database operations => database_helper.dart
+# for database sql => SQL/notesdb.sql
