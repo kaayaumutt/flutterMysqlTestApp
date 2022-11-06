@@ -32,4 +32,4 @@
 <img width="214" alt="noteupdatees" src="https://user-images.githubusercontent.com/90245432/200192324-6cdb03d4-57e6-40a8-8706-5feb8f6221d4.PNG">
 
 # for database operations => database_helper.dart
-# for database sql => SQL/notedb.sql
+# for database sql => notedb.sql
